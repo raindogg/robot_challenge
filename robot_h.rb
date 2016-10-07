@@ -13,3 +13,5 @@ end
 
 # solution
 
+robot = RobotH.new("T", "1000")
+robot.say_full_name

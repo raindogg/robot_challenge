@@ -7,4 +7,5 @@ class RobotE
 end
 
 # solution
+robot = RobotE.create
 

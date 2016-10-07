@@ -18,3 +18,10 @@ end
 
 # solution
 
+robot = CoolRobots::RobotG.new
+
+robot.get_time
+robot.get_weather("Chicao")
+
+# This gem requires an API key now. I registered to get one, but I don't
+# want to upload it to github. 

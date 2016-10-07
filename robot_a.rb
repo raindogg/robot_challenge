@@ -7,4 +7,5 @@ class RobotA
 end
 
 # solution
-
+robot = RobotA.new
+robot.dry_my_hands

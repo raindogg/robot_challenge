@@ -8,3 +8,4 @@ end
 
 # solution
 
+robot = RobotD.new("Sky", "Net")
